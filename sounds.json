@@ -7,6 +7,6 @@
             {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/titanic.mp3", "volume": 0.5, "title": "TITANIC"},
             {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/uhrgedreht.mp3", "volume": 0.5, "title": "UHR"},
             {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/österreich.mp3", "volume": 0.5, "title": "ÖSTERREICH"},
-            {"src": "https://myinstants.com//media/sounds/ich-bin-da.mp3", "volume": 0.5, "title": "ICH BIN DA"},
-            {"src": "https://myinstants.com//media/sounds/super-mario-bros-game-over.mp3", "volume": 0.5, "title": "SUPER MARIO"}
+            {"src": "https://www.myinstants.com/media/sounds/ich-bin-da.mp3", "volume": 0.5, "title": "ICH BIN DA"},
+            {"src": "https://www.myinstants.com/media/sounds/super-mario-bros-game-over.mp3", "volume": 0.5, "title": "SUPER MARIO"}
 ]
