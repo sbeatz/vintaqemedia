@@ -8,5 +8,15 @@
             {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/uhrgedreht.mp3", "volume": 0.5, "title": "UHR"},
             {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/österreich.mp3", "volume": 0.5, "title": "ÖSTERREICH"},
             {"src": "https://www.myinstants.com/media/sounds/ich-bin-da.mp3", "volume": 0.5, "title": "ICH BIN DA"},
-            {"src": "https://www.myinstants.com/media/sounds/super-mario-bros-game-over.mp3", "volume": 0.5, "title": "SUPER MARIO"}
+            {"src": "https://www.myinstants.com/media/sounds/super-mario-bros-game-over.mp3", "volume": 0.5, "title": "SUPER MARIO"},
+            {"src": "https://soundboardbuttons.com/media/uploads/sounds/realistic-door-knocking-sound-effect.mp3", "volume": 1.0, "title": "KLOPFEN"},
+            {"src": "https://sound-boards.de/media/sounds/toni/at_ach_der_toni.mp3", "volume": 0.5, "title": "TONI"},
+            {"src": "https://sound-boards.de/media/sounds/200puls/200pulsbald.mp3", "volume": 0.5, "title": "200PULS"},
+            {"src": "https://sound-boards.de/media/sounds/200puls/ausmfensternaus.mp3", "volume": 0.5, "title": "AUSM FENSTER"},
+            {"src": "https://sound-boards.de/media/sounds/toni/at_alle_gleich.mp3", "volume": 0.5, "title": "ALLE GLEICH"},
+            {"src": "https://sound-boards.de/media/sounds/Ronny_Sch%C3%A4fer/Bandmass%20halten.mp3", "volume": 0.5, "title": "BANDMASS"},
+            {"src": "https://sound-boards.de/media/sounds/soundboard.entropia.dev/da-muss-man-sich-zusammennehmen.mp3", "volume": 0.5, "title": "FREUNDLICH BLEIBEN"},
+            {"src": "https://sound-boards.de/media/sounds/Loriot_-_Das_ist_Qualitaet_-_einer_wie_der_andere.mp3", "volume": 0.5, "title": "QUALITÄT"},
+            {"src": "https://sound-boards.de/media/sounds/youtube/die_stimmung_kippt.mp3", "volume": 0.5, "title": "STIMMUNG KIPPT"},
+            {"src": "https://sound-boards.de//media/sounds/dunkelmut/Heute%20billiger%2C%20morgen%20teurer%3B%20100%20Jahre%20Garantie.opus", "volume": 1.0, "title": "NICHT VERSTANDEN"}
 ]
