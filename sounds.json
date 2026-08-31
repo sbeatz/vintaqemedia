@@ -26,22 +26,22 @@
             {"src": "https://sound-board.de/media/sounds/Ronny_Sch%C3%A4fer/Junge%2C%20Junge.mp3", "volume": 0.3, "title": "JUNGE JUNGE"},
             {"src": "https://sound-board.de/media/sounds/Ronny_Sch%C3%A4fer/Keine%20Lust%20mehr.mp3", "volume": 0.5, "title": "KEINE LUST MEHR"},
             {"src": "https://sound-board.de/media/sounds/Meica/Meica%20Probier%20mal.opus", "volume": 0.5, "title": "PROBIER MAL"},
-            {"src": "https://sound-board.de/media/sounds/tv/na_gut_woran_hat_es_gelegen.mp3", "volume": 0.5, "title": "WORAN HATS GELEGEN"},
+            {"src": "https://sound-board.de/media/sounds/tv/na_gut_woran_hat_es_gelegen.mp3", "volume": 1.0, "title": "WORAN HATS GELEGEN"},
             {"src": "https://sound-board.de/media/sounds/the_boys/No%20fucking%20way.mp3", "volume": 0.5, "title": "NO WAY"},
             {"src": "https://sound-board.de/media/sounds/ut-kid/Oh%20mein%20Gott%20was%20ist%20geschehen.mp3", "volume": 0.5, "title": "WAS IS GESCHEHEN"},
             {"src": "https://sound-board.de/media/sounds/200puls/prima.mp3", "volume": 0.5, "title": "PRIMA"},
             {"src": "https://sound-board.de/media/sounds/andreas/pa_stopp3_halt_stopp.mp3", "volume": 0.5, "title": "HALT STOPP"},
             {"src": "https://api-v1-max.softsove.life/sounds/1787544102180-98513fea.mp3", "volume": 0.5, "title": "TÖRÖÖÖÖÖ"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/alarmalarm.mp3", "volume": 0.4, "title": "ALARM"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/Barcelona.mp3", "volume": 0.4, "title": "BARCELONA"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/hierlos.mp3", "volume": 0.4, "title": "HIER LOS"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/ichwillnichtmehr.mp3", "volume": 0.4, "title": "WILL NICHT MEHR"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/kleidderliebe.mp3", "volume": 0.4, "title": "KLEID DER LIEBE"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/luegeluegeluege.mp3", "volume": 0.4, "title": "LÜGE LÜGE LÜGE"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/siewichser.mp3", "volume": 0.4, "title": "SIE WICHSER"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/tisch.mp3", "volume": 0.4, "title": "TISCH"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/wasmachensachen.mp3", "volume": 0.4, "title": "WAS MACHEN SACHEN"},
-            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/zueckerli.mp3", "volume": 0.4, "title": "ZÜCKERLI"}
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/alarmalarm.mp3", "volume": 1.0, "title": "ALARM"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/Barcelona.mp3", "volume": 1.0, "title": "BARCELONA"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/hierlos.mp3", "volume": 1.0, "title": "HIER LOS"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/ichwillnichtmehr.mp3", "volume": 1.0, "title": "WILL NICHT MEHR"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/kleidderliebe.mp3", "volume": 1.0, "title": "KLEID DER LIEBE"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/luegeluegeluege.mp3", "volume": 1.0, "title": "LÜGE LÜGE LÜGE"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/siewichser.mp3", "volume": 1.0, "title": "SIE WICHSER"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/tisch.mp3", "volume": 1.0, "title": "TISCH"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/wasmachensachen.mp3", "volume": 1.0, "title": "WAS MACHEN SACHEN"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/zueckerli.mp3", "volume": 1.0, "title": "ZÜCKERLI"}
 
 
 
