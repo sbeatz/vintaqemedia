@@ -32,10 +32,19 @@
             {"src": "https://sound-board.de/media/sounds/ut-kid/Oh%20mein%20Gott%20was%20ist%20geschehen.mp3", "volume": 0.5, "title": "WAS IS GESCHEHEN"},
             {"src": "https://sound-board.de/media/sounds/200puls/prima.mp3", "volume": 0.5, "title": "PRIMA"},
             {"src": "https://sound-board.de/media/sounds/andreas/pa_stopp3_halt_stopp.mp3", "volume": 0.5, "title": "HALT STOPP"},
-            {"src": "https://dw.zobj.net/download/v1/bvX0Q7-s5HPANnD2otcGUKyTlBg8RwUYl-0T6eNE09nFJK7vDu03dtO-za31ANuPFSJfSgjYJl06cQ0RgBHhb57fEXL2e-lB2AfGHfy1J6VT-DgMQLhK991OTXJ4?a=&c=72&f=3000_jahre_spater.mp3&special=1788032225-u0WdBsmME0n7Q96gyQMfeH2SJPq4GPDnhrbo17656nY%3D", "volume": 0.5, "title": "3000 JAHRE SPÄTER"},
-            {"src": "https://dw.zobj.net/download/v1/b2pHdXTpV6haHhzUkI8ClS9InBraUSm74zOv4aQ0gg_AnOCtXkg2IPmbQAA_M9hw4A3vUPCodcx8TLplK1Fe5PmTRErxwsSh1Aq8706dQLz75FX9NPd4PUfDoMl4?a=&c=72&f=100_jahre_garantie.mp3&special=1788032398-Mib7NMLsbzfy2Jq3pT6zbSYhk%2F2v1ssy3wn3WJ%2B0GAo%3D", "volume": 0.5, "title": "100 JAHRE GARANTIE 2"},
-            {"src": "https://soundbuttonsmax.com/sounds/1787544102180-98513fea.mp3", "volume": 0.5, "title": "TÖRÖÖÖÖÖ"},
-            {"src": "https://soundbuttonsmax.com/sounds/1787544102180-98513fea.mp3", "volume": 0.5, "title": "DAS IST NICHT MEIN PROBLEM 2"}
+            {"src": "https://api-v1-max.softsove.life/sounds/1787544102180-98513fea.mp3", "volume": 0.5, "title": "TÖRÖÖÖÖÖ"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/alarmalarm.mp3", "volume": 0.4, "title": "ALARM"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/barcelona.mp3", "volume": 0.4, "title": "BARCELONA"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/hierlos.mp3", "volume": 0.4, "title": "HIER LOS"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/ichwillnichtmehr.mp3", "volume": 0.4, "title": "WILL NICHT MEHR"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/kleidderliebe.mp3", "volume": 0.4, "title": "KLEID DER LIEBE"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/luegeluegeluege.mp3", "volume": 0.4, "title": "LÜGEL LÜGEL LÜGE"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/siewichser.mp3", "volume": 0.4, "title": "SIE WICHSER"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/tisch.mp3", "volume": 0.4, "title": "TISCH"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/wasmachensachen.mp3", "volume": 0.4, "title": "WAS MACHEN SACHEN"},
+            {"src": "https://raw.githubusercontent.com/sbeatz/vintaqemedia/main/zueckerli.mp3", "volume": 0.4, "title": "ZÜCKERLI"}
+
+
 
         ]
 
