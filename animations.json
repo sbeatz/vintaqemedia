@@ -38,6 +38,7 @@
       { "id": "video_ladenraub", "type": "video_ladenraub", "label": "VIDEO HANDY", "bg": "none" },
       { "id": "video_punch", "type": "video_punch", "label": "VIDEO PUNCH", "bg": "none" },
       { "id": "video_hobbyhorsing", "type": "video_hobbyhorsing", "label": "HOBBY HORSING", "bg": "none" },
+      { "id": "video_1eurotext", "type": "video_1eurotext", "label": "1 EURO", "bg": "none" },
       { "id": "follow", "type": "followAnimation", "label": "FOLLOW ANIMATION", "bg": "none" },
       { "id": "customImage", "type": "customImage", "label": "CUSTOM IMAGE", "bg": "none" },
       { "id": "customImage2", "type": "customImage2", "label": "", "bg": "https://iili.io/nwStWAl.jpg", "url": "https://iili.io/nwStWAl.jpg" },
