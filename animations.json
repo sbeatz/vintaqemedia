@@ -56,7 +56,6 @@
       { "id": "customImage2", "type": "customImage2", "label": "", "bg": "https://i.giphy.com/tIeCLkB8geYtW.webp", "url": "https://i.giphy.com/tIeCLkB8geYtW.webp" },
       { "id": "customImage2", "type": "customImage2", "label": "", "bg": "https://i.giphy.com/anSiSGG5YaXeBn5gv4.webp", "url": "https://i.giphy.com/anSiSGG5YaXeBn5gv4.webp" },
       { "id": "customImage2", "type": "customImage2", "label": "", "bg": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUydGtpdWRsMWlhczFqaWZhZ3hna2oyNDZ5cnhxanhlNm11dXJzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IF4QM5XYI6tF3G/giphy.gif", "url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUydGtpdWRsMWlhczFqaWZhZ3hna2oyNDZ5cnhxanhlNm11dXJzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IF4QM5XYI6tF3G/giphy.gif" },
-      { "id": "customImage2", "type": "customImage2", "label": "", "bg": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl6OXQ3aTV5ejZwZ2MxMzZtZnMwaDhiamRsZ3hpdHJnb3pucTJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFvULnr3fCDrW/giphy.gif", "url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl6OXQ3aTV5ejZwZ2MxMzZtZnMwaDhiamRsZ3hpdHJnb3pucTJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFvULnr3fCDrW/giphy.gif" }
-    
-
+      { "id": "customImage2", "type": "customImage2", "label": "", "bg": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl6OXQ3aTV5ejZwZ2MxMzZtZnMwaDhiamRsZ3hpdHJnb3pucTJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFvULnr3fCDrW/giphy.gif", "url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl6OXQ3aTV5ejZwZ2MxMzZtZnMwaDhiamRsZ3hpdHJnb3pucTJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aFvULnr3fCDrW/giphy.gif" },
+{ "id" : "customImage2", "type": "customImage2","label" :"", "bg" : "https://iili.io/ofjeP5X.jpg", "url":"https://iili.io/ofjeP5X.jpg" } 
     ]
