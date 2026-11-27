@@ -1,7 +1,8 @@
 [
     {
         "timestamp": "2026-11-27T12:05:00+01:00",
-        "event": "Opening GiveAway"
+        "event": "Opening GiveAway",
+        "special": true
     },
     {
         "timestamp": "2026-11-27T12:30:00+01:00",
@@ -25,7 +26,8 @@
     },
     {
         "timestamp": "2026-11-27T20:00:00+01:00",
-        "event": "Special Piece #1"
+        "event": "Special Piece #1",
+        "special": true
     },
     {
         "timestamp": "2026-11-27T20:30:00+01:00",
@@ -33,7 +35,8 @@
     },
     {
         "timestamp": "2026-11-27T21:00:00+01:00",
-        "event": "TV ab 1€"
+        "event": "TV ab 1€",
+        "special": true
     },
     {
         "timestamp": "2026-11-27T22:00:00+01:00",
@@ -41,7 +44,8 @@
     },
     {
         "timestamp": "2026-11-27T23:30:00+01:00",
-        "event": "Buyer GiveAway"
+        "event": "Buyer GiveAway",
+        "special": true
     },
     {
         "timestamp": "2026-11-28T01:00:00+01:00",
@@ -73,7 +77,8 @@
     },
     {
         "timestamp": "2026-11-28T04:30:00+01:00",
-        "event": "Nacht Giveaway"
+        "event": "Nacht Giveaway",
+        "special": true
     },
     {
         "timestamp": "2026-11-28T05:00:00+01:00",
@@ -113,7 +118,8 @@
     },
     {
         "timestamp": "2026-11-28T13:00:00+01:00",
-        "event": "Nike / Adidas / American Vintage"
+        "event": "Nike / Adidas / American Vintage",
+        "special": true
     },
     {
         "timestamp": "2026-11-28T16:30:00+01:00",
@@ -129,11 +135,13 @@
     },
     {
         "timestamp": "2026-11-28T19:00:00+01:00",
-        "event": "CR7 Signed Fussball"
+        "event": "CR7 Signed Fussball",
+        "special": true
     },
     {
         "timestamp": "2026-11-28T20:00:00+01:00",
-        "event": "Football Special"
+        "event": "Football Special",
+        "special": true
     },
     {
         "timestamp": "2026-11-28T20:30:00+01:00",
@@ -141,7 +149,8 @@
     },
     {
         "timestamp": "2026-11-28T21:00:00+01:00",
-        "event": "PS5 ab 1€"
+        "event": "PS5 ab 1€",
+        "special": true
     },
     {
         "timestamp": "2026-11-28T22:30:00+01:00",
@@ -149,7 +158,8 @@
     },
     {
         "timestamp": "2026-11-28T23:30:00+01:00",
-        "event": "Buyer GiveAway"
+        "event": "Buyer GiveAway",
+        "special": true
     },
     {
         "timestamp": "2026-11-29T01:00:00+01:00",
@@ -181,7 +191,8 @@
     },
     {
         "timestamp": "2026-11-29T04:30:00+01:00",
-        "event": "Nacht Giveaway"
+        "event": "Nacht Giveaway",
+        "special": true
     },
     {
         "timestamp": "2026-11-29T05:00:00+01:00",
@@ -213,7 +224,8 @@
     },
     {
         "timestamp": "2026-11-29T12:00:00+01:00",
-        "event": "Lego Special"
+        "event": "Lego Special",
+        "special": true
     },
     {
         "timestamp": "2026-11-29T12:30:00+01:00",
@@ -233,7 +245,8 @@
     },
     {
         "timestamp": "2026-11-29T20:00:00+01:00",
-        "event": "Special Piece #2"
+        "event": "Special Piece #2",
+        "special": true
     },
     {
         "timestamp": "2026-11-29T20:30:00+01:00",
@@ -241,7 +254,8 @@
     },
     {
         "timestamp": "2026-11-29T21:00:00+01:00",
-        "event": "Louis Vuitton ab 1€"
+        "event": "Louis Vuitton ab 1€",
+        "special": true
     },
     {
         "timestamp": "2026-11-29T22:30:00+01:00",
@@ -249,7 +263,8 @@
     },
     {
         "timestamp": "2026-11-29T23:30:00+01:00",
-        "event": "Buyer GiveAway"
+        "event": "Buyer GiveAway",
+        "special": true
     },
     {
         "timestamp": "2026-11-30T01:00:00+01:00",
@@ -281,7 +296,8 @@
     },
     {
         "timestamp": "2026-11-30T04:30:00+01:00",
-        "event": "Nacht Giveaway"
+        "event": "Nacht Giveaway",
+        "special": true
     },
     {
         "timestamp": "2026-11-30T05:00:00+01:00",
@@ -313,7 +329,8 @@
     },
     {
         "timestamp": "2026-11-30T12:00:00+01:00",
-        "event": "Deutschland Trikots"
+        "event": "Deutschland Trikots",
+        "special": true
     },
     {
         "timestamp": "2026-11-30T12:30:00+01:00",
@@ -341,7 +358,8 @@
     },
     {
         "timestamp": "2026-11-30T20:00:00+01:00",
-        "event": "Grand Finale & Grails"
+        "event": "Grand Finale & Grails",
+        "special": true
     },
     {
         "timestamp": "2026-11-30T20:30:00+01:00",
@@ -349,7 +367,8 @@
     },
     {
         "timestamp": "2026-11-30T22:00:00+01:00",
-        "event": "iPhone 18 Pro ab 1€"
+        "event": "iPhone 18 Pro ab 1€",
+        "special": true
     },
     {
         "timestamp": "2026-11-30T22:30:00+01:00",
@@ -357,11 +376,13 @@
     },
     {
         "timestamp": "2026-11-30T23:00:00+01:00",
-        "event": "The Last 60 Minutes"
+        "event": "The Last 60 Minutes",
+        "special": true
     },
     {
         "timestamp": "2026-11-30T23:30:00+01:00",
-        "event": "Buyer GiveAway"
+        "event": "Buyer GiveAway",
+        "special": true
     }
 
 ]
